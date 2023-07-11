@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  BooksApp
+
+  Created by Polina Tolstenkova on 10.07.2023.
+  
+*/
+
+//MARK: - Categories View
+
+"categories_title" = "Categories";
+"categories_no_data" = "NO DATA FOUND";
+"categories_alert_button" = "OK";
+
+//MARK: - Book View
+
+"book_by" = "by";
+"book_rank" = "Rank:";
+"book_publisher" = "Publisher:";
+"book_details" = "See details";
+
+//MARK: - Details View
+
+"details_buy_button" = "Buy book";
+"details_action_sheet_title" = "Buy links";
+"details_description" = "Description";
+"details_close_button" = "Close";
+
+//MARK: - Errors
+
+"unexpected_error" = "An unexpected error occurred";
+
